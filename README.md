@@ -12,6 +12,8 @@ https://youtu.be/yOBSuQIiSMk
 
 
 ### Robot Run (UE4 Roguelike) Demos
+Aim rotation demo: https://youtu.be/6LIkxRJM1xo
+
 Cannon weapon demo: https://youtu.be/VAV6wu_TUw4
 
 Climbing demo 1: https://youtu.be/0JwDdPXy6MQ
@@ -56,3 +58,4 @@ Upgrade station menu demo: https://youtu.be/XiWeS84OPLs
 
 Piercing projectile demo: https://youtu.be/klm-5NCe6QU
 
+Weapon swap demo: https://youtu.be/q_KHGXxEkGo
