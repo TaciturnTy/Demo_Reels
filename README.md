@@ -1,15 +1,19 @@
 # Demo_Reels
+Various videos that show off some of my projects.
 
-These videos can viewed on my website as well!
-(Coming soon)
+These videos can viewed on my website as well: https://www.tpaulley.com/demo-videos
+
+---
 
 ### Trundle Steam Trailer
 https://youtu.be/uQy-kobxx3U
 
+---
 
 ### Demo Reel (November 2018)
 https://youtu.be/yOBSuQIiSMk
 
+---
 
 ### Robot Run (UE4 Roguelike) Demos
 Aim rotation demo: https://youtu.be/6LIkxRJM1xo
